@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
@@ -77,3 +73,5 @@ namespace DesafioFundamentos.Models
         }
     }
 }
+
+
